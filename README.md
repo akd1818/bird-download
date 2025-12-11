@@ -1,18 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>download page</title>
-    <link rel="stylesheet" href="download.css">
-</head>
-<body>
-    <div class="container">
-        <h1>Download Bird Game</h1>
-       
-<div class="box">
-        <a id="bt"  href="https://drive.google.com/file/d/1Cdc3RKJjiNWhx4-ixnT0OUaH1FDWVRgx/view?usp=drivesdk" class="download-button" >Download Now</a>
-</div>
-    </div>
-</body>
-</html>
+

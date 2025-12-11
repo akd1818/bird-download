@@ -6,6 +6,8 @@
     background-image: url(image.jpg);
     background-position: center;
     background-size: cover;
+    width:70vw;
+    highte:70vh;
 
 }
 #bt{
@@ -27,3 +29,4 @@ h1{
     padding-bottom: 80px;
 
 }
+
